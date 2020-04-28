@@ -1,2 +1,2 @@
 # ivlv
-Library for things worth loving
+My little library for things worth loving.
