@@ -36,7 +36,7 @@ Ordinarily special.
 ### 우효 (OOHYO)
 -	PIZZA
 	> Summer's been boring without you
-- Papercut
+-	Papercut
 	> I did my best to read your eyes
 -	Butter Chicken (뻔한 치킨)
 	> 아 돌고 돌고 돌아도 이 세상은 변하지 않아, 그리고 넌 뻔하지 않아
@@ -49,3 +49,8 @@ Ordinarily special.
 ### 스텔라장 (Stella Jang)
 -	Alcoholman (알콜맨)
 	> 넌 술인데 물인 척 나를 속여와 난 물인 듯 술을 들이켜다
+### 달의하루 (Dareharu)
+-	염라 (Karma)
+	> 거짓말처럼 아 아미타
+-	너로피어오라 (Flowering)
+	> 나인 그대로 피어나고 싶어
