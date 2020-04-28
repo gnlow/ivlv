@@ -31,5 +31,16 @@ Ordinarily special.
 -	RUN
 	> 도망가볼까, 모른척할까
 ### 선우정아
-
+-	구애
+	> I love you 루즈한 그 말도 너에게는
 ### 우효 (OOHYO)
+-	PIZZA
+	> Summer's been boring without you
+- Papercut
+	> I did my best to read your eyes
+-	Butter Chicken (뻔한 치킨)
+	> 아 돌고 돌고 돌아도 이 세상은 변하지 않아, 그리고 넌 뻔하지 않아
+### 술탄 오브 더 디스코 (Sultan Of The Disco)
+-	사라지는 꿈
+	> 사라지는 꿈을 꾸곤해, 숨을 곳을 찾아 떠나네
+
