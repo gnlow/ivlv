@@ -43,4 +43,9 @@ Ordinarily special.
 ### 술탄 오브 더 디스코 (Sultan Of The Disco)
 -	사라지는 꿈
 	> 사라지는 꿈을 꾸곤해, 숨을 곳을 찾아 떠나네
-
+### 공중도둑 (Mid-Air Thief)
+-	하얀방
+	> 벽을 새하얗게 칠해줘 그 위에 흰 그림
+### 스텔라장 (Stella Jang)
+-	Alcoholman (알콜맨)
+	> 넌 술인데 물인 척 나를 속여와 난 물인 듯 술을 들이켜다
