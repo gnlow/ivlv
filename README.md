@@ -78,3 +78,10 @@ Ordinarily special.
 	> 겨울지나 나의 별에도 봄이 오면  
 	  무덤에 파란 잔디가 피어나는데  
 	  내 옆에는 아무도 없던데
+### BewhY (비와이)
+-	다음것 (DAMM GUT)
+	> Next new, next new  
+	  Woo, next new thang
+-	찬란 (CHALLAN)
+	> 여긴 기준 없는 힙합 찌질이들 초대석  
+	  질투하는 얼굴 으 못생겼으
