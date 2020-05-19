@@ -2,7 +2,20 @@
 My little library for things worth loving.  
 내 사랑스러운 것들을 담은 작은 상자.  
 Ordinarily special.  
+## Website
+Grouped by category.
+### Dev
+-	Velog: https://velog.io/
+### Design
+-	pxd Story: http://pxd.co.kr/pages/story/story_main.html
+### Data
+#### Geo
+-	VW LAB: https://www.vw-lab.com/
+### Lang
+#### Phonetics
+-	양병곤 교수의 홈페이지: http://www.fonetiks.info/
 ## Playlist
+Grouped by artist.
 ### 쏜애플 (Thornapple)
 -	도롱뇽 
 	> 우린 서로의 귀 뒤편에 씨앗 하나를 묻고
