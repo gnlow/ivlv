@@ -16,6 +16,12 @@ Grouped by category.
 -	양병곤 교수의 홈페이지: http://www.fonetiks.info/
 #### Conlang
 -	stelo: https://cafe.naver.com/stelo
+## YT Channel
+Grouped by category.
+### Dev
+-	carykh: https://www.youtube.com/user/carykh
+### Science
+-	Kurzgesagt - In a Nutshell: https://www.youtube.com/user/Kurzgesagt
 ## Playlist
 Grouped by artist.
 ### 쏜애플 (Thornapple)
