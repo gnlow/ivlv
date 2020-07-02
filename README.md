@@ -6,8 +6,15 @@ Ordinarily special.
 Grouped by category.
 ### Dev
 -	Velog: https://velog.io/
-### Design
+### Design/Graphic
+#### UI
 -	pxd Story: http://pxd.co.kr/pages/story/story_main.html
+#### Animation/Motion
+-	Tendril: https://tendril.ca/
+-	Patexum: https://patexum.com/
+-	yama_ko: http://www.yama-ko.net/
+-	misokabocha: http://quarter-d.com/
+-	Shun Yamaguchi: https://oumlr.com/
 ### Data
 #### Geo
 -	VW LAB: https://www.vw-lab.com/
