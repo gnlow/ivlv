@@ -113,7 +113,20 @@ Grouped by artist.
 -	찬란 (CHALLAN)
 	> 여긴 기준 없는 힙합 찌질이들 초대석  
 	  질투하는 얼굴 으 못생겼으
+-	힘 (Hymn)
+	> 살아 난 아버지 아들로  
+	  만물이 그로 말미암아 모두
+-	Let me know, God (어디로)
+	> 언젠가부터 날 지배하는 욕망  
+	  마지막엔 결국 나는 그걸 쫓아
+-	Neo Christian Flow
+	> 신은 죽었다고 말했던 니체는 죽었다  
+	  망칠 든 Christian Flow 그 예를 들면 나야
 ### sokodomo
 -	지구멸망
 	> 아프지도 슬프지도 않아  
 	  이젠 끝이란 걸 증명해줘
+-	mini cow
+	> we don’t bow  
+	  mini cow how  
+	  is it really allowed
