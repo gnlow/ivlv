@@ -16,6 +16,7 @@ Grouped by category.
 -	misokabocha: http://quarter-d.com/
 -	Shun Yamaguchi: https://oumlr.com/
 ### Data
+-	데이터안심구역 | 데이터시각화: http://datakorea.datastore.or.kr/
 #### Geo
 -	VW LAB: https://www.vw-lab.com/
 ### Lang
