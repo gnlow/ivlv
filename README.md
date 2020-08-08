@@ -2,8 +2,12 @@
 My little library for things worth loving.  
 내 사랑스러운 것들을 담은 작은 상자.  
 Ordinarily special.  
+
 ## Website
 Grouped by category.
+<details>	
+<summary>See all</summary>
+
 ### Dev
 -	Velog: https://velog.io/
 ### Design/Graphic
@@ -24,6 +28,8 @@ Grouped by category.
 -	양병곤 교수의 홈페이지: http://www.fonetiks.info/
 #### Conlang
 -	stelo: https://cafe.naver.com/stelo
+</details>
+
 ## YT Channel
 Grouped by category.
 ### Dev
