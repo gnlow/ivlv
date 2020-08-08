@@ -32,10 +32,15 @@ Grouped by category.
 
 ## YT Channel
 Grouped by category.
+<details>	
+<summary>See all</summary>
+
 ### Dev
 -	carykh: https://www.youtube.com/user/carykh
 ### Science
 -	Kurzgesagt - In a Nutshell: https://www.youtube.com/user/Kurzgesagt
+</details>
+
 ## Playlist
 Grouped by artist.
 <details>	
