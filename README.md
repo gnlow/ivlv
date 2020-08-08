@@ -162,7 +162,15 @@ Grouped by maker.
 -	<img title="삼겹살체" src="./asset/삼겹살체.png" height="30px"></img>
 ### 투게더그룹
 -	<img title="62570체" src="./asset/62570체.png" height="30px"></img>
--	<img title="" src="" height="30px"></img>
--	<img title="" src="" height="30px"></img>
+### ZESSTYPE
+-	<img title="지블랙" src="./asset/지블랙.png" height="30px"></img>
+-	<img title="흑단" src="./asset/흑단.png" height="30px"></img>
+#### 이미지 출처
+[지.블랙.](https://notefolio.net/zesstype/40981), ZESSTYPE / CC BY NC ND  
+[흑단](https://notefolio.net/zesstype/182408), ZESSTYPE / CC BY NC ND  
+
+-	<img title="" src="./asset/.png" height="30px"></img>
+-	<img title="" src="./asset/.png" height="30px"></img>
+-	<img title="" src="./asset/.png" height="30px"></img>
 <details>	
 <summary>See all</summary>
