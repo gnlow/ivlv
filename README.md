@@ -38,6 +38,9 @@ Grouped by category.
 -	Kurzgesagt - In a Nutshell: https://www.youtube.com/user/Kurzgesagt
 ## Playlist
 Grouped by artist.
+<details>	
+<summary>See all</summary>
+
 ### 쏜애플 (Thornapple)
 -	도롱뇽 
 	> 우린 서로의 귀 뒤편에 씨앗 하나를 묻고
@@ -140,3 +143,4 @@ Grouped by artist.
 	> we don’t bow  
 	  mini cow how  
 	  is it really allowed
+</details>
