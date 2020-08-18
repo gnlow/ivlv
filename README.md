@@ -21,6 +21,7 @@ Grouped by category.
 -	Shun Yamaguchi: https://oumlr.com/
 ### Data
 -	데이터안심구역 | 데이터시각화: http://datakorea.datastore.or.kr/
+-	한국사회과학자료원: https://kossda.snu.ac.kr/
 #### Geo
 -	VW LAB: https://www.vw-lab.com/
 ### Lang
