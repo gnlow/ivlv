@@ -156,6 +156,9 @@ Grouped by artist.
 
 ## Font
 Grouped by maker.
+<details>	
+<summary>See all</summary>
+	
 ### 산돌
 -	곧은부리 <!-- <img title="곧은부리" src="https://media.sandollcloud.com/static/images/contents/EtoH/SDGodeunBuri_02.png" height="30px"></img> -->
 -	프레스 <!-- <img title="프레스" src="https://media.sandollcloud.com/static/images/contents/MtoP/SDPress_02.png" height="30px"></img> -->
@@ -172,5 +175,4 @@ Grouped by maker.
 #### 이미지 출처
 [지.블랙.](https://notefolio.net/zesstype/40981), ZESSTYPE / CC BY NC ND  
 [흑단](https://notefolio.net/zesstype/182408), ZESSTYPE / CC BY NC ND  
-<details>	
-<summary>See all</summary>
+</details>
