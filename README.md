@@ -30,6 +30,8 @@ Grouped by category.
 -	양병곤 교수의 홈페이지: http://www.fonetiks.info/
 #### Conlang
 -	stelo: https://cafe.naver.com/stelo
+### Blog
+-	이렇게 여행하면 안돼요.: https://kepper.tistory.com/
 </details>
 
 ## YT Channel
