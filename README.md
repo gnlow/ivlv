@@ -11,6 +11,7 @@ Grouped by category.
 ### Dev
 -	Velog: https://velog.io/
 ### Design/Graphic
+-	건국대학교 커뮤니케이션디자인학과 졸업전시회 아카이브: http://kucd.net/graduate/
 #### UI
 -	pxd Story: http://pxd.co.kr/pages/story/story_main.html
 #### Animation/Motion
