@@ -14,6 +14,7 @@ Grouped by category.
 -	건국대학교 커뮤니케이션디자인학과 졸업전시회 아카이브: http://kucd.net/graduate/
 #### UI
 -	pxd Story: http://pxd.co.kr/pages/story/story_main.html
+-	jongmin kim blog: https://blog.cmiscm.com/
 #### Animation/Motion
 -	Tendril: https://tendril.ca/
 -	Patexum: https://patexum.com/
